@@ -15,8 +15,9 @@ function Testinomial() {
             <h2 className="text-center mb-4"  style={{ fontSize: '39px', fontWeight: '580', fontFamily: 'Poppins', color: '#349bc6' }}>Testimonials</h2>
             <div className="text-center">
                 <p className="sub-heading mb-4"  style={{textAlign:'justify',fontFamily:'Outfit',fontSize:'1rem',color:'#666',fontWeight:'579',lineHeight:'29px'}}>
-                    At our laundry service, we believe that the true measure of our success lies in the satisfaction of our customers. We are delighted to share the experiences and feedback from those who have trusted us with their laundry needs. Our testimonials highlight the positive impact our services have had on their lives, from the convenience of doorstep pick-up and delivery to the exceptional care we take with each garment. These stories reflect our commitment to quality, reliability, and customer satisfaction. Read on to discover how we've made laundry day easier and more enjoyable for our valued clients. If you’ve had a great experience with us, we invite you to share your story and join our growing community of happy customers!
-                </p>
+                At Car Garage, our customers’ voices reflect the excellence and dedication we bring to every service. From personalized care to professional expertise, our satisfied clients share stories of trust, reliability, and outstanding results. Whether it’s about restoring performance, resolving complex repairs, or ensuring a smooth ride, our testimonials showcase the value we deliver.
+
+Explore real experiences from drivers who have trusted us with their vehicles and discover why Car Garage is a name synonymous with quality and satisfaction. Your trust drives us to exceed expectations, one car at a time.               </p>
             </div>
             <div className="swiper-container">
                 <Swiper
@@ -44,31 +45,31 @@ function Testinomial() {
                 >
                     <SwiperSlide>
                         <div className="testimonial">
-                            <p style={{fontSize:'17.6px',fontFamily:'Josefin Sans',color:'white',fontWeight:'600'}}>"Exceptional service! Scheduling pick-up is easy. My clothes always come back looking fantastic."</p>
+                            <p style={{fontSize:'17.6px',fontFamily:'Josefin Sans',color:'white',fontWeight:'600'}}>"Scheduling a test drive was quick, and the experience helped me finalize my decision. The team made sure I was comfortable and answered all my questions patiently."</p>
                             <p className="testimonial-author" style={{textAlign:'right',fontFamily:'Poppins',fontSize:'1.1rem',fontWeight:'580',color:'white'}}>- Sarah L.</p>
                         </div>
                     </SwiperSlide>
                     <SwiperSlide>
                         <div className="testimonial">
-                            <p  style={{fontSize:'17.6px',fontFamily:'Josefin Sans',color:'white',fontWeight:'600'}}>"With my busy schedule, this service is a lifesaver. Prompt delivery and excellent customer service. Truly convenient!"</p>
+                            <p  style={{fontSize:'17.6px',fontFamily:'Josefin Sans',color:'white',fontWeight:'600'}}>"Booking a car with this platform was incredibly simple! The process was smooth, and the staff was very accommodating. Highly recommend!"</p>
                             <p className="testimonial-author" style={{textAlign:'right',fontFamily:'Poppins',fontSize:'1.1rem',fontWeight:'580',color:'white'}}>- John D.</p>
                         </div>
                     </SwiperSlide>
                     <SwiperSlide>
                         <div className="testimonial">
-                            <p  style={{fontSize:'17.6px',fontFamily:'Josefin Sans',color:'white',fontWeight:'600'}}>"They handled my delicate fabrics with such care. I'm extremely pleased. My clothes have never looked better!"</p>
+                            <p  style={{fontSize:'17.6px',fontFamily:'Josefin Sans',color:'white',fontWeight:'600'}}>"The car maintenance service was outstanding. The team explained every detail and completed the servicing ahead of time. My car feels brand new! Thank you for the excellent work."</p>
                             <p className="testimonial-author" style={{textAlign:'right',fontFamily:'Poppins',fontSize:'1.1rem',fontWeight:'580',color:'white'}}>- Emily W.</p>
                         </div>
                     </SwiperSlide>
                     <SwiperSlide>
                         <div className="testimonial">
-                            <p  style={{fontSize:'17.6px',fontFamily:'Josefin Sans',color:'white',fontWeight:'600'}}>"Always on time and great communication. They remember my preferences, making me feel valued. Couldn't be happier!"</p>
+                            <p  style={{fontSize:'17.6px',fontFamily:'Josefin Sans',color:'white',fontWeight:'600'}}>"I was amazed at how easy it was to book a test drive and explore different models. The staff was knowledgeable and guided me to select the perfect car for my needs."</p>
                             <p className="testimonial-author" style={{textAlign:'right',fontFamily:'Poppins',fontSize:'1.1rem',fontWeight:'580',color:'white'}}>- David R.</p>
                         </div>
                     </SwiperSlide>
                     <SwiperSlide>
                         <div className="testimonial">
-                            <p  style={{fontSize:'17.6px',fontFamily:'Josefin Sans',color:'white',fontWeight:'600'}}>"Best laundry service I've used. Quality and professionalism exceed my expectations. They are truly top-notch."</p>
+                            <p  style={{fontSize:'17.6px',fontFamily:'Josefin Sans',color:'white',fontWeight:'600'}}>"Great customer service and attention to detail. From booking to delivery, the team kept me informed every step of the way. I’m thrilled with my new car!"</p>
                             <p className="testimonial-author" style={{textAlign:'right',fontFamily:'Poppins',fontSize:'1.1rem',fontWeight:'580',color:'white'}} >- Maria H.</p>
                         </div>
                     </SwiperSlide>
