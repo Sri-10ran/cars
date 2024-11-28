@@ -39,7 +39,7 @@ function Address() {
                         <div className="col-lg-4 col-md-12 mb-4 text-center text-lg-left">
                             <h2>Contact</h2>
                             <ul>
-                                <li><i className="fa-solid fa-location-dot"></i> N.R.K.R Road, near Reg. Office, Sivakasi - 626124.</li>
+                                <li><i className="fa-solid fa-location-dot"></i> N.R.K.R Road, Sivakasi - 626124.</li>
                                 <li><i className="fa-solid fa-phone"></i> +91 12345 67890</li>
                                 <li><i className="fa-solid fa-envelope"></i> <a href="mailto:laundryes@gmail.com" className="text-light">carcares@gmail.com</a></li>
                             </ul>
