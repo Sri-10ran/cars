@@ -17,15 +17,10 @@ function Founder() {
                 </div>
                 <div className="founder-text" style={{textAlign:'justify',fontFamily:'Outfit',fontSize:'1rem',color:'#666',fontWeight:'579',lineHeight:'25px'}}>
                     <p>
-                        This template is a micro niche for business categories, namely laundry business. There was an excess of this template using Adobe Muse, making it easier to edit, add content, and without having to use coding in the edit.
+                    Car Garage was founded by a group of automotive enthusiasts and engineers who shared a vision to revolutionize the car service industry. With a deep understanding of vehicles and a commitment to quality, they brought their expertise together to create a one-stop destination for all things automotive.Our mission is to redefine car care through exceptional service, innovative technology, and customer-first principles. We believe that every car deserves the best treatment and every customer deserves transparency and trust.From humble beginnings as a small workshop, Car Garage has grown into a comprehensive service provider, catering to car enthusiasts and everyday drivers alike. Today, we offer a wide range of services, from routine maintenance to specialized repairs, all under one roof.At Car Garage, we treat every car like our own, ensuring it receives the care and attention it deserves. Whether you’re looking for routine servicing, major repairs, or custom solutions, our team is here to help.
 
-                        This template is designed with a unique and simple style, so that it can promote and provide a solution for the laundry business. This template can be an alternative for entrepreneurs engaged in the laundry business or web developers who need to design websites for laundry business categories.
+Experience the difference at Car Garage – because your car deserves the best.
 
-                        The advantages of this template include being a multipage template consisting of a homepage, about page, services page, pricing page, FAQ page, blog, and contact page. It can describe all the requirements needed for a business website.
-
-                        This template is a micro niche for business categories, namely laundry business. There was an excess of this template using Adobe Muse, making it easier to edit, add content, and without having to use coding in the edit.
-
-                        This template is designed with a unique and simple style, so that it can promote and provide a solution for the laundry business. This template can be an alternative for entrepreneurs engaged in the laundry business or web developers who need to design websites for laundry business categories.
 
                                  </p>
                 </div>
