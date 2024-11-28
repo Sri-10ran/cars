@@ -100,8 +100,8 @@ function Home() {
             <Col md={6}>
               <div className="left bg-transparent bg-opacity-50 p-4 rounded" style={{ marginTop: '2px' }}>
 
-                <p style={{ fontSize: '24px', fontWeight: '930',fontFamily:'Nunito',letterSpacing:'0.2px' }}>WE ARE THE BEST LAUNDRY SERVICE PROVIDERS FROM SIVAKASI.</p>
-                <p style={{ fontSize: '19px', fontWeight: '600' ,fontFamily:'Josefin Sans',letterSpacing:'0.2px'}}>This template is using Adobe Muse making it easier to edit, add content, and without having to use the coding in the edit.</p>
+                <p style={{ fontSize: '24px', fontWeight: '930',fontFamily:'Nunito',letterSpacing:'0.2px' }}>Welcome to Car Garage - Your Trusted Automotive Partner</p>
+                <p style={{ fontSize: '19px', fontWeight: '600' ,fontFamily:'Josefin Sans',letterSpacing:'0.2px'}}>We are proud to be the leading car service and maintenance providers in Sivakasi, offering top-notch solutions for all your automotive needs. At Car Garage, we ensure your vehicle gets the care and attention it deserves, delivering unmatched quality and precision.</p>
               
               </div>
             </Col>
